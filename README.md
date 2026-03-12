@@ -7,3 +7,4 @@ A GUI calculator built with Python using Tkinter
 # ⚙️ What I Learned
 - Building GUIs with Tkinter
 - Button Logic & Event handling
+- Inline commenting

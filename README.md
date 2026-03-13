@@ -1,4 +1,4 @@
-# 🧮 Calculator
+# 🧮 GUI Calculator
 A GUI calculator built with Python using Tkinter
 # 🌟 Features
 - Addition, Subtraction, Multiplication, Division
